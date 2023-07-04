@@ -14,12 +14,14 @@
 
 <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Git&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/>
 
-![YuneeeM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuneeeM&theme=solarized-light)
+
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuneeeM&layout=compact&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuneeeM&layout=compact&theme=solarized-light)
 
 <!--
 **YuneeeM/YuneeeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![YuneeeM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuneeeM&theme=solarized-light)
 
 Here are some ideas to get you started:
 
