@@ -1,4 +1,4 @@
-### Hi there 👋 <br><br><br><br> 🐻I'm Yuni🐻
+### 🐻I'm Yuni🐻
 <br>
 <br>
 
