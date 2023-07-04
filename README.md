@@ -12,7 +12,7 @@
 
 **Tools** 🧑‍🔧
 
-<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Git&logoColor=white"/> <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"/>  <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/>
+<img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Git&logoColor=white"/> <img alt="android studio" src ="https://img.shields.io/badge/Android Studio-3DDC84.svg?&style=flat&logo=Android Studio&logoColor=white"/> <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"/>  <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/>
 
 <!--
 **YuneeeM/YuneeeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
