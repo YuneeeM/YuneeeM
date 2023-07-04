@@ -14,7 +14,7 @@
 
 <img alt="IntelliJ IDEA" src ="https://img.shields.io/badge/IntelliJ IDEA-000000.svg?&style=flat&logo=IntelliJ IDEA&logoColor=white"/> <img alt="Visual Studio Code" src ="https://img.shields.io/badge/Visual Studio Code-007ACC.svg?&style=flat&logo=Git&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=Git&logoColor=white"/>
 
-[![YuneeeM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuneeeM&theme=github_dark)](https://github.com/YuneeeM/github-readme-stats)
+![YuneeeM's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuneeeM&theme=gruvbox_light)
 
 <!--
 **YuneeeM/YuneeeM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
